@@ -6,8 +6,8 @@
    cd Random
    ```
 ## 🔧 Files Overview
-### `edge.py`
+ `edge.py`
   - auto searcher for edge reward program
 
-### `stock.html`
+ `stock.html`
   - visualize profit and loss 
