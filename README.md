@@ -5,7 +5,7 @@
    git clone https://github.com/ShawnFrostX/Random.git
    cd Random
    ```
-## Files Overview
+## 🔧 Files Overview
 ### `edge.py`
   - auto searcher for edge reward program
 
