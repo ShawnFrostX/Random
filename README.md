@@ -2,5 +2,5 @@
 My random codes
 
 
-edge.py
-  auto searcher for edge reward program
+[edge.py]
+  :auto searcher for edge reward program
